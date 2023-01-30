@@ -7,7 +7,7 @@
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=uBrunoO&show_icons=true&theme=dark)
 
-### Linguagens que mais utilizo:
+<h2> Linguagens que mais utilizo:</h2>
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,7 +15,7 @@
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
   <br>
-<h3> Me dedico ao máximo para poder desenvolver a melhor aplicação para determinado projeto... Criando códigos e ajudando o próximo desde 2023 :)</h3>
+<h2> Me dedico ao máximo para poder desenvolver a melhor aplicação para determinado projeto... Criando códigos e ajudando o próximo desde 2023 :)</h2>
   
   <br/>
   
