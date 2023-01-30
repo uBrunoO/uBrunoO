@@ -5,6 +5,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511966921072?text=Olá%20Bruno,%20vi%20seu%20perfil%20no%20GitHub,%20Você%20está%20disponível?)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ubruno_o/)
 
+![Snake animation](https://github.com/uBrunoO/uBrunoO/blob/output/github-contribution-grid-sanke.svg)
+  
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=uBrunoO&show_icons=true&theme=radical)
 
 <h2> Linguagens que mais utilizo: <img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png" width="40px"> <img src="https://em-content.zobj.net/source/microsoft-teams/337/alien-monster_1f47e.png" width="40px"></h2>
