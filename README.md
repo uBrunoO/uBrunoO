@@ -5,7 +5,10 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511966921072?text=Olá%20Bruno,%20vi%20seu%20perfil%20no%20GitHub,%20Você%20está%20disponível?)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ubruno_o/)
 
-![Snake animation](https://github.com/uBrunoO/uBrunoO/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
   
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=uBrunoO&show_icons=true&theme=radical)
 
