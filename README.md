@@ -7,7 +7,7 @@
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=uBrunoO&show_icons=true&theme=radical)
 
-<h2> Linguagens que mais utilizo:</h2>
+<h2> Linguagens que mais utilizo: <img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png" width="40px"> <img src="https://em-content.zobj.net/source/microsoft-teams/337/alien-monster_1f47e.png" width="40px"></h2>
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,7 +15,7 @@
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
   <br>
-<h2> Me dedico ao máximo para poder desenvolver a melhor aplicação para determinado projeto... Criando códigos e ajudando o próximo desde 2023 :)</h2>
+<h2><img src="https://em-content.zobj.net/source/microsoft-teams/337/hundred-points_1f4af.png" width="40px"> Me dedico ao máximo para poder desenvolver a melhor aplicação para determinado projeto... Criando códigos e ajudando o próximo desde 2023 :)</h2>
   
   <br/>
   
