@@ -23,4 +23,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uBrunoO&exclude_repo=github-readme-stats,uBrunoO.github.io)](https://github.com/uBrunoO/github-readme-stats)
 
- ![snake gif](https://github.com/uBrunoO/uBrunoO/blob/output/github-contribution-grid-snake.svg)
